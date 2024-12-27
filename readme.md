@@ -11,3 +11,7 @@ template inheritance -
     ans - now if you want to use bootstrap so instead of using it in home and about now we can only use it in layout.html file
 
 what is cdn? css and js uses it means we need not to download anything
+
+create forms using wtforms apply validators, error handling
+
+always use url_for for linking webpages
