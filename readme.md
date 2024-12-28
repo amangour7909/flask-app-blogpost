@@ -31,4 +31,22 @@ set uri's for database , create its instance then define each table as class
     handle duplicate use check before submitting form
 
 # 6. install flask login mangager for handling login
-    
+    -validate user while trying to login
+    -when user logged in it should show different navbar of home page conatains account tab
+    -if account not logged in and trying to reach account page then it should flash message and reach to login page
+
+# 7. finish account page and add functionality to update profile picture and user info
+    -create a form like register form change validator as new name and mail should not be same and don't exist
+    -create account template
+    -if info validated then update db and flash message
+    -elseif form should contain current user info
+    -now create field to update profile pic
+    -add enctype="multipart/form-data" to send proper picture through form
+    -set path for picture resize then upload
+
+# 8. add functionality to user to add post, delete and update it
+    -create a page and route, login required for this route 
+    -
+
+
+
