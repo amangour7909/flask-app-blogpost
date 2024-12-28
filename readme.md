@@ -46,7 +46,8 @@ set uri's for database , create its instance then define each table as class
 
 # 8. add functionality to user to add post, delete and update it
     -create a page and route, login required for this route 
-    -
+    -create a new form fetch data for user and then render it on home page
+    -show profile pic infront of post
 
 
 
