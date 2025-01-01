@@ -49,5 +49,12 @@ set uri's for database , create its instance then define each table as class
     -create a new form fetch data for user and then render it on home page
     -show profile pic infront of post
 
+# 9. pagination - show fix no of pages on a page 
+    -insteading of showing all create paginate object
+    -dir(obj) - show all functions of object
+    -how to show other pages by passing page no parameter to url
+    -now iterate through pages, by iter_pages() function
+    -show all the posts by particular user filter by username
+
 
 
