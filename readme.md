@@ -56,5 +56,7 @@ set uri's for database , create its instance then define each table as class
     -now iterate through pages, by iter_pages() function
     -show all the posts by particular user filter by username
 
+https://github.com/AmNotAGoose/Python-PPTX-ChatGPT-Presentation-Generator/blob/main/main.py
+
 
 
